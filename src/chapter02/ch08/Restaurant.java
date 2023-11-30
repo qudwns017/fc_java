@@ -1,4 +1,4 @@
-package ch08;
+package chapter02.ch08;
 
 public class Restaurant {
     private int orderNum;

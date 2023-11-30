@@ -1,4 +1,4 @@
-package ch04;
+package chapter02.ch04;
 
 public class Order {
     public int orderId;
