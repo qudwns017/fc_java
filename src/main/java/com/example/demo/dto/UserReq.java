@@ -1,7 +1,15 @@
 package com.example.demo.dto;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
 @Data
-@NoArgsConstruct
+@NoArgsConstructor
+@AllArgsConstructor
 
 public class UserReq {
+    private String name;
+
+    private int age;
 }
